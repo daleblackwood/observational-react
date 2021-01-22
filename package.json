@@ -1,0 +1,19 @@
+{
+  "name": "observational-react",
+  "version": "1.0.0",
+  "description": "Tiny observers for React with Hooks",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test",
+    "start": "node index"
+  },
+  "author": "Dale Blackwood",
+  "license": "MIT",
+  "generator": "http://npmjs.com/tinit",
+  "dependencies": {
+    "observational": "^1.0.1"
+  },
+  "peerDependencies": {
+    "react": "*16.8.0"
+  }
+}
