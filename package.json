@@ -1,8 +1,8 @@
 {
   "name": "observational-react",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Tiny observers for React with Hooks",
-  "main": "index.js",
+  "main": "lib/index.js",
   "scripts": {
     "test": "node test",
     "start": "node index"
